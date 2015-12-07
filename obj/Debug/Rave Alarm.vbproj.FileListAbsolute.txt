@@ -1,0 +1,20 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\bin\Debug\Rave Alarm.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\bin\Debug\Rave Alarm.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\bin\Debug\Rave Alarm.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave_Alarm.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave_Alarm.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave Alarm.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave Alarm.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave Alarm.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Rave Alarm\obj\Debug\Rave Alarm.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave Alarm.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave Alarm.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave Alarm.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Rave Alarm.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Rave Alarm.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Rave Alarm.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave_Alarm.Form1.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave_Alarm.Resources.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Rave Alarm.vbproj.GenerateResource.Cache

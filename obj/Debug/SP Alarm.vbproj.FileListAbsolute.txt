@@ -1,0 +1,10 @@
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Sp Alarm.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Sp Alarm.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\bin\Debug\Sp Alarm.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\SP_Alarm.Resources.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\SP_Alarm.Form1.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\SP Alarm.vbproj.GenerateResource.Cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Sp Alarm.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Sp Alarm.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Rave Alarm\Rave Alarm\obj\Debug\Sp Alarm.pdb
